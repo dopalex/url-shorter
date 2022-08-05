@@ -1,4 +1,4 @@
-# Url-shorter
+# Library Application
 
 ## Descriptions
 This simple web application mimics the operation of an online link shortening service.
